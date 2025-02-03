@@ -1,6 +1,6 @@
 const global = {
-    owner: [6493353976], // GANTI PAKE ID TELE MU YA GANTENG 
-    botToken: "7572177283:AAFGIjI4HTNeC9mO8ap3dTR8yugnVUY1Ydc", // ISI BOT TOKEN LU YAK
+    owner: [1476002847], // GANTI PAKE ID TELE MU YA GANTENG 
+    botToken: "8039780680:AAFqocf8bLCFZ5ANp7-RXF9Z6H-0RJ3hszo", // ISI BOT TOKEN LU YAK
 }
 
 module.exports = global;
